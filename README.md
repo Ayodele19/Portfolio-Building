@@ -32,16 +32,9 @@ Visit the deployed version of my portfolio at the following link:
 ## **Contributing**
 If you'd like to contribute to improving this portfolio, feel free to fork the repository and submit a pull request. Any improvements, feedback, or suggestions are welcome.
 
-## **License**
-This project is open-source and available under the [MIT License](LICENSE).
-
 ## **Connect with Me**
 You can find me on the following platforms:
 
 - **LinkedIn**: [Ayodele Prayer](https://www.linkedin.com/in/ayodeleprayer19)
 - **GitHub**: [Ayodele19](https://github.com/Ayodele19)
 - **Twitter**: [@Ayodele19](https://twitter.com/Ayodele19)
-
----
-
-Feel free to replace the LinkedIn URL with the correct one if needed!
